@@ -10,12 +10,8 @@ Este é um script Python desenvolvido para automatizar processos relacionados à
 
 ## Pré-requisitos
 - Python 3.x instalado
-- Bibliotecas necessárias listadas no arquivo `requirements.txt`
 - Arquivo CSV com informações dos tickets a serem abertos
 
-## Instalação
-1. Clone este repositório: `git clone https://github.com/seu_usuario/seu_repositorio.git`
-2. Instale as dependências: `pip install -r requirements.txt`
 
 ## Uso
 1. Execute o script: `python botcsi.py`
